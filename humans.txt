@@ -1,0 +1,17 @@
+/* TEAM */
+	Creater/Lead:Lily Leaf Smith
+	Contact: lily [at] fag [dot] pet
+	Twitter: @itslusio_
+	From:NC, USA
+
+    VP Engineering: Ezri Zhu
+    Contact: me [at] ezri [dot] pet
+    Fedi: @ezri@sleepless.social
+    nic-hdl: EZRI-RIPE
+    www: ezri.pet
+
+/* SITE */
+	Last update:2012/02/04
+	Language: English
+	Doctype:HTML5
+	IDE: VSCode
